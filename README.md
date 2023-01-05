@@ -10,3 +10,5 @@ When 'make one' is pressed a pacman will appear; there is no limit on how many p
 
 ## Future improvements
 I would like to work on having the pacmen 'chomping' across the screen as their moving as well as change direction once they bounce off the edge of the browser screen. 
+
+<a href="https://kayla-day.github.io/PacMen-Exercise/"> Give it a try! </a>
