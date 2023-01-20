@@ -1,6 +1,6 @@
 # PacMen Exercise
 ## Populate the browser with unlimited pacmen
-<img src= "iamges/PacMan1.png" width='200'/>
+<img src= "images/PacMan1.png" width='200'/>
 
 ## Description 
 A factory to create as many PacMen as you choose to add, that will move around the browser at their own speed.
